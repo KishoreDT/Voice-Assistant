@@ -1,0 +1,14 @@
+wolframalpha
+wikipedia
+SpeechRecognition
+ecapture
+twilio
+beautifulsoup4
+pyttsx3
+winshell
+pyjokes
+feedparser
+clint
+PyAudio
+pyfiglet
+termcolor
